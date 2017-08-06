@@ -18,7 +18,7 @@ contributor:
 ---
 
 *This is a Linode Community guide. Write for us and earn $250 per published guide.*
-<hr>
+
 
 ## Introduction
 Linode has a wide selection of popular Linux distributions that fill almost any web hosting need.  But what if you don't even want to use Linux, what if you want to run Windows Server?  Or maybe  you’d just like to setup a remote workstation?  Thanks to recent additions like KVM and the wide suite of tools Linode provides it’s now possible to do this, and only takes a short while to set up!
